@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+header{
+    display: flex;
+    justify-content: center;
+    margin: 2.5rem 0;
+}
+
+header h1{
+    font-size: 2.5rem;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+div{
+    text-align: center;
+    margin: 1.5rem 0;
+}
+
+input{
+    padding: 0.75rem;
+    border-radius: 10px;
+}
+
+button{
+    padding: 1rem;
+    border-radius: 15px;
+    border: 1px solid black;
+}
+
+button:active{
+    background-color: aliceblue;
+}
+
+
+
+p{
+    font-size: 1.5rem;
+    padding: 1rem;
+    text-align: center;
+}

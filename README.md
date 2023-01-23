@@ -1,0 +1,2 @@
+<h1 tex-align="center">Jogo Adivinha</h1>
+<p>Baseado no curso <a href="https://cursos.alura.com.br/course/logica-programacao-javascript-html">Javascript e HTML: desenvolva um jogo e pratique lógica de programação</a></p>
